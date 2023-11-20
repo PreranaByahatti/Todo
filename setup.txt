@@ -1,0 +1,15 @@
+Database used: MongoDB
+Front-end: ReactJS
+
+Install the following packages using npm:
+axios
+mongoose
+cors
+express
+react-scripts
+react-icons
+
+To run:
+first change directory to server and type npm run
+
+Open another powershell type npm start or npm run dev in 
